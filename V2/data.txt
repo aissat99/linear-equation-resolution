@@ -1,0 +1,4 @@
+Les données du système d'équations. Chaque ligne du fichier correspond à une équation du système, avec la dernière valeur comme valeur du second membre
+1 1 2 3
+1 2 1 1
+2 1 1 0
