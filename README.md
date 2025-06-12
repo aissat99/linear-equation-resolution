@@ -12,6 +12,8 @@ En utilisant l'outil de compilation `g++`, la commande suivante permet de compil
 ```
 g++ -c main.cpp functions.cpp
 ```
+***Note***: Pour pouvoir fonctionner, le programme récupère les données du système d'équation dans un fichier texte nommé `data.txt`. Assurez-vous que ce fichier soit présent dans le même dossier que les codes sources.
+
 Ensuite, pour créer l'éxecutable, utilisez la commande suivante:
 ```
 g++ -o solver *.o
@@ -23,5 +25,4 @@ Une fois l'éxecutable `solver` créé, la commande suivante permet de lancer le
 ```
 ./solver
 ```
-***Note***: Pour pouvoir fonctionner, le programme récupère les données du système d'équation dans un fichier texte nommé `data.txt`. Assurez-vous que ce fichier soit présent dans le même dossier que les codes sources.
 
