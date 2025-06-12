@@ -1,4 +1,4 @@
-# linear-equation-resolution
+# linear_equation_resolution
 
 ## Description
 Un programme en ligne de commande qui résoud un système d'équations linéaires, utilisant la méthode d'élimination de Gauss.
